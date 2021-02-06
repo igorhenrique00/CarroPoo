@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612570053 source:/home/igor/Desktop/CEFET-MG/Prog C++/Carro/carro.cpp
+	<iostream>
+	"carro.hpp"
+	<string>
+
+1612565243 /home/igor/Desktop/CEFET-MG/Prog C++/Carro/carro.hpp
+	<iostream>
+	<string>
+
+1612565458 source:/home/igor/Desktop/CEFET-MG/Prog C++/Carro/main.cpp
+	<iostream>
+	"carro.hpp"
+	<string>
+
